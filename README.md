@@ -1,4 +1,4 @@
-# Systéme d'alerte précoce pour mieux détecter le décrochage scolaire
+# Système d'alerte précoce pour mieux détecter le décrochage scolaire
 
 
 ## Objectifs
